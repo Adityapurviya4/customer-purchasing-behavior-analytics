@@ -3,7 +3,9 @@ A complete data analytics project exploring customer purchasing behaviors using 
 
 This project demonstrates the full data analytics lifecycle — from data extraction and cleaning to exploratory data analysis, database querying, and interactive dashboard reporting.
 
-![Uploading Screenshot 2025-12-05 194219.png…]()
+<img width="1201" height="664" alt="Screenshot 2025-12-05 194219" src="https://github.com/user-attachments/assets/1e35fd74-18f7-4b03-9119-bbb85746e467" />
+
+
 
 Key Features:
 
