@@ -2,9 +2,8 @@
 A complete data analytics project exploring customer purchasing behaviors using Python, SQL, and Power BI.
 
 This project demonstrates the full data analytics lifecycle — from data extraction and cleaning to exploratory data analysis, database querying, and interactive dashboard reporting.
+
 ![Uploading Screenshot 2025-12-05 194219.png…]()
-
-
 
 Key Features:
 
