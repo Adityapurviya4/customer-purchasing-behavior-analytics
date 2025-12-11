@@ -6,6 +6,7 @@ This project demonstrates the full data analytics lifecycle — from data extrac
 <img width="1201" height="664" alt="Screenshot 2025-12-05 194219" src="https://github.com/user-attachments/assets/1e35fd74-18f7-4b03-9119-bbb85746e467" />
 
 💡 Technology Skill Profile (Based on Your Project Workflow)
+
 📌 Data Analysis & Programming (Python)
 
 Proficient in using Python for end-to-end data workflows.
